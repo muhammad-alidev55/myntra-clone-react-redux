@@ -269,6 +269,3 @@ This project is developed for **educational and learning purposes only** and is 
 ##  Author
 
 ### Muhammad Ali
-
-
-⭐ If you found this project useful, don't forget to give it a star on GitHub!
