@@ -68,7 +68,7 @@ The application fetches product data from the backend and allows users to manage
 - Express.js
 - Body Parser
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── 2-actual-backend
@@ -202,7 +202,7 @@ This project demonstrates:
 - E-Commerce Workflow
 - Responsive UI Design
 
-## 📸 Screenshots
+## Screenshots
 
 Add your project screenshots here.
 
@@ -220,7 +220,7 @@ Add your project screenshots here.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - User Authentication
 - Search Functionality
@@ -233,7 +233,7 @@ Add your project screenshots here.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
